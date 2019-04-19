@@ -1,5 +1,5 @@
 .navbar{
-  background-color: #FBFCFC;
+  background-color: #229954;
   colour: #17202A;
   font-size: 25px;
   font-style: normal;
@@ -28,26 +28,45 @@ a:visited {
   float: none;
   text-align: center;
   position: fixed;
-  top: 400px;
+  top: 250px;
   bottom: 200px;
   left:200px;
   right:200px;
 
 
 }
+.header2{
+  font-size: 60px;
+  font-weight: bold;
+  font-family: sans-serif;
+  float: none;
+  text-align: center;
+  position: fixed;
+  top: 350px;
+  bottom: 200px;
+  left:200px;
+  right:200px;
+  color: ##4A235A   ;
+}
 .paragraph1{
   font-size: 60px;
   font-weight: bold;
   font-family: sans-serif;
   text-align: center;
+  top: 450px;
+  bottom: 200px;
+  left:200px;
+  right:200px;
 }
-.column{
-  column-count: 3;
-  column-width: 20px;
-  color: #229954 ;
-  font-size: 20px;
-  font-family: fantasy;
-}
+
 h1 {
-  color: #229954 ;
+  color: ##4A235A   ;
+}
+p{
+  font-size: 20px;
+  font-family: sans-serif;
+  color: 4A235A;
+  font-weight: bold;
+
+
 }
