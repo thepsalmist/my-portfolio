@@ -61,20 +61,18 @@ a:visited {
   right:200px;
 }
 .paragraph2{
-  font-size: 30px;
+  font-size: 20px;
   font-weight: bold;
   font-family: sans-serif;
 }
 
-
-}
 p{
   font-size: 20px;
   font-family: sans-serif;
   font-weight: bold;
 }
 ol{
-  font-size: 25px;
+  font-size: 20px;
   font-style: normal;
   font-weight: bold;
   font-family: sans-serif;
@@ -84,15 +82,27 @@ h1{
   font-size: 20px;
   font-family: sans-serif;
   font-weight: bold;
+  text-align: center;
+  color: ##1A5276  ;
 }
 h2{
   font-size: 20px;
   font-family: sans-serif;
   font-weight: bold;
+  text-align: center;
+  color: ##1A5276  ;
 }
 h3{
   font-size: 20px;
   font-family: sans-serif;
   font-weight: bold;
+  text-align: center;
+  color: ##1A5276  ;
 
+}
+ul{
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  font-family: sans-serif;
 }
