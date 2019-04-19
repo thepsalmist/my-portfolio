@@ -12,6 +12,8 @@ The links to my projects from the projects page are overlapping. Working on fixi
 ## Technologies Used
 HTML
 CSS
+## Link to view the application
+https://thepsalmist.github.io/my-portfolio/
 ## Support and contact details
 Contact:xf.xavierfrank@gmail.com
 ### License
